@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.52e79eb1.chunk.css",
-    "main.js": "/static/js/main.18d25747.chunk.js",
-    "main.js.map": "/static/js/main.18d25747.chunk.js.map",
+    "main.js": "/static/js/main.092a06ab.chunk.js",
+    "main.js.map": "/static/js/main.092a06ab.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.52fa8bc1.js",
     "runtime-main.js.map": "/static/js/runtime-main.52fa8bc1.js.map",
-    "static/js/2.6c669bc6.chunk.js": "/static/js/2.6c669bc6.chunk.js",
-    "static/js/2.6c669bc6.chunk.js.map": "/static/js/2.6c669bc6.chunk.js.map",
+    "static/js/2.9d7a163b.chunk.js": "/static/js/2.9d7a163b.chunk.js",
+    "static/js/2.9d7a163b.chunk.js.map": "/static/js/2.9d7a163b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7e4e2830b19a4064b423dff0b93013cb.js": "/precache-manifest.7e4e2830b19a4064b423dff0b93013cb.js",
+    "precache-manifest.bdb88d9dd88bb28b43a8026e71862b94.js": "/precache-manifest.bdb88d9dd88bb28b43a8026e71862b94.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.52e79eb1.chunk.css.map": "/static/css/main.52e79eb1.chunk.css.map",
-    "static/js/2.6c669bc6.chunk.js.LICENSE.txt": "/static/js/2.6c669bc6.chunk.js.LICENSE.txt",
+    "static/js/2.9d7a163b.chunk.js.LICENSE.txt": "/static/js/2.9d7a163b.chunk.js.LICENSE.txt",
     "static/media/AAVE-BNB.svg": "/static/media/AAVE-BNB.8603dd0e.svg",
     "static/media/AAVE-USDT.svg": "/static/media/AAVE-USDT.15c81de5.svg",
     "static/media/AAVE.svg": "/static/media/AAVE.aadf289d.svg",
@@ -197,6 +197,8 @@
     "static/media/KEBAB-BTCB.png": "/static/media/KEBAB-BTCB.b273bbed.png",
     "static/media/KEBAB.png": "/static/media/KEBAB.a55227b8.png",
     "static/media/KEYFI-BNB.svg": "/static/media/KEYFI-BNB.fc80be91.svg",
+    "static/media/KITE-BNB.png": "/static/media/KITE-BNB.4b9e8286.png",
+    "static/media/KITE-BUSD.png": "/static/media/KITE-BUSD.7bc289ba.png",
     "static/media/KRILL-USDC.png": "/static/media/KRILL-USDC.f4414471.png",
     "static/media/KTN-BNB.svg": "/static/media/KTN-BNB.b7b9d7dd.svg",
     "static/media/KUN-BUSD.svg": "/static/media/KUN-BUSD.7f801425.svg",
@@ -438,8 +440,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.52fa8bc1.js",
-    "static/js/2.6c669bc6.chunk.js",
+    "static/js/2.9d7a163b.chunk.js",
     "static/css/main.52e79eb1.chunk.css",
-    "static/js/main.18d25747.chunk.js"
+    "static/js/main.092a06ab.chunk.js"
   ]
 }
